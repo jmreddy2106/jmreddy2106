@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jmreddy2106
-- 👀 I’m interested in Big Data Engneering and AWS and Auzre
+- 👋 Hi, I’m Jagan Mohan Reddy
+- 👀 I’m interested in Big Data Developer with AWS and Auzre
 - 🌱 I’m currently learning MS in Data Sciecne at University at Buffalo, NY
 - 💞️ I’m looking to collaborate on Data Engineer and Sciecne projects
 - 📫 How to reach me jmreddy.lbrce@gmail.com or jaganmoh@buffalo.edu
